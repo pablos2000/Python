@@ -6,4 +6,4 @@ num = 12
 if num % 2 == 0:
     print="El numero introducido es Par"
 else: print ="impar"
-    # comento añadiendo a ctihub
+    # comento añadiendo a github
